@@ -1,2 +1,2 @@
 # SampleDemo
-Sample Demo
+Sample Demo project for webhook triggering
